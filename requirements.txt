@@ -1,5 +1,6 @@
 # install numpy first so pandas finds a compatible wheel
 numpy==2.1.2
+
 pandas==2.2.2
 plotly==5.24.1
 dash==2.17.1
